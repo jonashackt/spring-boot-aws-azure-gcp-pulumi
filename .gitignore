@@ -1,3 +1,7 @@
+spring-boot-pulumi-aws/node_modules/
+spring-boot-pulumi-azure/node_modules/
+spring-boot-pulumi-google/node_modules/
+
 .idea
 *.iml
 
